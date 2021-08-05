@@ -30,7 +30,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 TARGET_BOOT_ANIMATION_RES := 720
 
 # Nusantara Properties
-NAD_BUILD_TYPE := OFFICIAL
+NAD_BUILD_TYPE := UNOFFICIAL
 
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := rolex
