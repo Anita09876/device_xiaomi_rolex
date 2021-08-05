@@ -1,14 +1,14 @@
 [
   {
-    "remote": "github",
-    "repository": "NusantaraROM-Devices/kernel_xiaomi_rolex",
+    "remote": "Anita09876",
+    "repository": "Anita09876/android_kernel_xiaomi_msm8917",
     "target_path": "kernel/xiaomi/msm8917",
-    "branch": "10",
+    "branch": "lineage-17.1",
     "clone-depth": "1"
   },
   {
-    "remote": "github",
-    "repository": "NusantaraROM-Devices/vendor_xiaomi_rolex",
+    "remote": "Anita09876",
+    "repository": "Anita09876/vendor_xiaomi_rolex",
     "target_path": "vendor/xiaomi",
     "branch": "lineage-17.1",
     "clone-depth": "1"
